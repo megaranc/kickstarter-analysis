@@ -14,7 +14,7 @@
 
 ### Analysis of Outcomes Based on Launch Date
 
-### To better analyze and understand the data, we created a pivot table to examine the relationship between campaign launch date and campaign outcome.[Kickstarter_Challenge](Then we created a line chart from the pivot table to visualize the data trend. [Theater_Outcomes_vs_Launch](path/to/Theater_Outcomes_vs_Launch.png) From the chart, it is clear that campaigns that start in late-May or early-June have a very high chance of being successful at meeting their kickstarter goals. On the contrary, campaigns that start in October have a very high chance of failing to meet their kickstarter goals. 
+### To better analyze and understand the data, we created a pivot table to examine the relationship between campaign launch date and campaign outcome.[Kickstarter_Challenge](path/to/Kickstarter_Challenge.xlxs) Then we created a line chart from the pivot table to visualize the data trend. [Theater_Outcomes_vs_Launch](path/to/Theater_Outcomes_vs_Launch.png) From the chart, it is clear that campaigns that start in late-May or early-June have a very high chance of being successful at meeting their kickstarter goals. On the contrary, campaigns that start in October have a very high chance of failing to meet their kickstarter goals. 
 
 ### Analysis of Outcomes Based on Goals
 
